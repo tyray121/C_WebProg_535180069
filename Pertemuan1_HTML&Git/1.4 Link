@@ -1,0 +1,119 @@
+<html>
+	<head>
+		<title> Ini title </title>
+	</head>
+	
+	<body>
+		<!-- PENDAHULUAN -->
+		
+			<h1>Link </h1>
+			<a href="https://www.lipsum.com/"> Lorem Ipsum <a>
+		
+		</br>
+		</br>
+		</br>
+		</br>
+		
+		<!-- TAUTAN KE WEB LAIN -->
+		
+			<h2>Lorem ipsum sites :</h2>
+		<ul>
+		<li><a href="https://www.lipsum.com/"> lipsum.com <a></li>
+		<li><a href="https://www.loremipsum.io/"> loremipsum.io <a></li>
+		<li><a href="https://generator.lorem-ipsum.info/"> generator.lorem-ipsum.info <a></li>
+		</ul>
+		
+		</br>
+		</br>
+		</br>
+		</br>
+		
+		<!-- TAUTAN KE HALAMAN LAIN DI WEB YANG SAMA -->
+		
+			<h3> Web Proggramming </h3>
+			<ul>
+				<li> Structure
+					<ul>
+						<li><a href="01.01.Structure.html"> Structure </a> </li>
+						<li><a href="01.01.Structure complete.html"> Structure - Complete</a> </li>
+					</ul>
+				</li>
+				<li> Text
+					<ul>
+						<li><a href="01.01.heading.html"> headings </a> </li>
+						<li><a href="01.01.paragraph.html"> paragraph</a> </li>
+					</ul>
+				</li>
+			</ul>
+			
+			</br>
+			</br>
+			</br>
+			</br>
+			
+			<!-- RELATIVE URLS -->
+			
+				<h1> RELATIVE URL </h1>
+				
+				<h2> Same Folder</h2>
+				<a href="04.05. landing.html">Landing</a>
+				
+				<h2> Child Folder</h2>
+				<a href="04.05/04.05 Child landing.html">Child Landing</a>
+				
+				<h2> Grand Child Folder</h2>
+				<a href="04.05 Child/ 04.05 GrandChild/ 04.05 GrandChild landing.html">GrandChild Landing</a>
+				
+				<h2> Parent Folder</h2>
+				<a href="04.05. Link.html">Link</a>
+				
+				<h2> GrandParent Folder</h2>
+				<a href="../../Index.html">Index</a>
+				
+				</br>
+				</br>
+				</br>
+				</br>
+		
+			<!-- TAUTAN EMAIL -->
+
+				<a href="../../mailto:endangspiderman@fti.untar.ac.id">Kirim Email ke : Manatap Sitorus</a>
+				
+			<!-- MEMBUKA TAUTAN DI JENDELA BARU -->
+			
+				<h1> Click Link Below </h1>
+				
+				<a href="https://www.lipsum.com/" target="_blank"> lipsum.com <a>
+				</br>
+				</br>
+				</br>
+				</br>
+				
+			<!-- TAUTAN KE LOKASI SPESIFIK DI HALAMAN YANG SAMA -->
+			
+			<h1>Link to Specific Id </h1>
+			
+			<h1 id="top">Film Making Terms </h1>			
+			<a href= "#arc_shot">Arc Shoot</a> <br/>
+			<a href= "#interlude">Interlude</a> <br/>
+			<a href= "#prologue">Prologue</a> <br/>
+			
+			<h2 id="arc_shoot"> Arc Shoot</h2>
+			<p> A shoot which is the subject is photographed by
+				an enciricing or moving camera </p>
+				
+			<h2 id="interlude"> Interlude</h2>
+			<p> A shoot which is the subject is photographed by
+				an enciricing or moving camera </p>
+				
+			<h2 id="prologue"> Prologue</h2>
+			<p> A shoot which is the subject is photographed by
+				an enciricing or moving camera </p>
+		
+			<p><a href="#top">Top</a></p>
+			
+			
+			
+	</body>
+	
+</html>

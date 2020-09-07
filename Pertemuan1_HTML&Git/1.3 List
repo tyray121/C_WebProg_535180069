@@ -1,0 +1,62 @@
+<html>
+	<body>
+	
+	
+	<!-- ORDERED LIST -->
+	
+	<h1> Resep Rendang </h1>
+	<ol>
+		<li> halusin bamer baput, cabe dan lengkuas </li>
+		<li> ungkep daging sapi yg udh dipotong-potong dg bumbu yg sudah dihaluskan, tunggu sampai bumbu meresap dan daging kering </li>
+		<li> masukan santan cair, merica bubuk, sereh, asam kandis bunga pekak, daun jeruk, kemudian aduk hingga merata, tambahkan garam dan gula, <br>
+		jangan lupa test rasa </li>
+		<li> tunggu sampai santan mendidih, sedikit mengeluarkan minyak, kemudan kecilkan api </li>
+		<li> campurkan bahan pelengkap kedalam rendang kemudian aduk lagi sampai merata </li>
+		<li> angkat rendang dan siap disajikan</li>
+	</ol>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		
+	<!-- UNORDERED LIST -->
+	<h2> Bahan2 Rendang </h2>
+	<ul>
+		<li> 1kg daging sapi pilihan, potong sesuai selera </li>
+		<li>bawang merah bawang putih secukupnya</li>
+		<li>1 bks santan kelapa cair</li>
+		<li>5 lmbr daun sereh, daun salam , lengkuas, jahe</li>
+		<li>gula dan garam secukupnya</li>
+		<li>1 lembar daun jeruk</li>
+		<li>6 cabe hijau iris tipis</li>
+		<li>2 biji asam kandis</li>
+		<li>2 buah bunga daun pekak</li>
+	</ul>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+	
+	<!-- NESTED LIST -->
+	<h3> Resep Rendang </h3>
+	<ol>
+		<li> halusin bamer baput, cabe dan lengkuas 
+			<ul> 
+				<li>5 butir bamer</li>
+				<li>5 butir baput</li>
+				<li>5 butir cabe keriting</li>
+			</ul>
+		</li>
+		<li> ungkep daging sapi yg udh dipotong-potong dg bumbu yg sudah dihaluskan, tunggu sampai bumbu meresap dan daging kering </li>
+		<li> masukan santan cair, merica bubuk, sereh, asam kandis bunga pekak, daun jeruk, kemudian aduk hingga merata, tambahkan garam dan gula, <br>
+		jangan lupa test rasa </li>
+		<li> tunggu sampai santan mendidih, sedikit mengeluarkan minyak, kemudan kecilkan api </li>
+		<li> campurkan bahan pelengkap kedalam rendang kemudian aduk lagi sampai merata </li>
+		<li> angkat rendang dan siap disajikan</li>
+	</ol>
+	
+	</body>
+
+</html>

@@ -1,0 +1,82 @@
+<!-- COMMENT-->
+
+<html>
+
+    <body>
+	<!-- YA INI PEMBUKA-->
+        <h1>Current Exhibitions</h1>
+        <h2>Olafur Eliasson</h2>
+		<!-- INI ISI PARAGRAPH-->
+        <p>Olafur Eliasson was born in copenhagen, Denmark in 1967 to Icelandic parents.</p>
+		<!-- PENUTUP-->
+        <p>he is know for sculptures and large scale...</p>
+    </body>
+	
+</html>
+
+<!-- DIV-->
+
+<html>
+
+    <body>
+        <div id="header">
+        <ul>
+            <li><a href="08.02. Comment.html"></a></li>
+            <li><a href="08.03. DIV.html"></a></li>
+        </ul>
+    </div>
+    </body>
+</html>
+
+
+<!-- SPAN-->
+
+<html>
+
+    <body>
+        <p>Anish kapoor won the Tuner prize in 1991 and exhibited at the <span class="gallery">Tate Modern</span>gallery in London in 2003</p>
+    </body>
+	
+</html>
+
+
+<!-- IFRAME-->
+
+<html>
+
+    <body>
+        <iframe src="https://www.google.co.id/maps/search/palembang+icon/@-2.9787507,104.7436517,17z/data=!3m1!4b1?hl=id"
+        width="450"
+        height="350"
+        frameborder="0 "
+        scrolling="no">
+    </iframe>
+    </body>
+	
+</html>
+
+
+<!-- META -->
+
+<html>
+
+    <head>
+        <title>information About Your Pages</title>
+        <meta name="description" content="An essay on  installation Art"/>
+        <meta name="keywords" content="installation, art, opinion"/>
+        <meta name="robots" content="nofollow"/>
+        <meta http-equiv="author" content="jon Duckett"/>
+        <meta http-equiv="pragma" content="no-cahce"/>
+        <meta http-equiv="expires" content="Fri, 04 Apr 2014 23:59:59 GMT"/>
+    </head>
+    <body> 
+	 <iframe src="https://www.google.co.id/maps/search/palembang+icon/@-2.9787507,104.7436517,17z/data=!3m1!4b1?hl=id"
+        width="450"
+        height="350"
+        frameborder="0 "
+        scrolling="no">
+    </iframe>
+	
+    </body>
+	
+</html>
