@@ -1,0 +1,41 @@
+  body { 
+	font-family: Calibri;
+	color: black;
+	background-image: url(../img/Background2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: auto;
+    margin:50 px;
+   -ms-text-size-adjust: 100%;
+   -webkit-text-size-adjust: 100%;
+
+}
+
+.section{
+    text-align	: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 20px 20px;
+}
+.kotak{
+    background: rgba(160, 160, 160, 0.3); 
+    border: black solid 1px;
+	width : 594px;
+}
+table{
+	margin: 20px 20px;
+	margin	: auto;
+}
+.table td,
+.table th {
+  background-color:none;
+  margin	: auto;
+  color: #000;
+  padding: 10px;
+}
+.footer{
+	border: black solid 1px;
+	width : 594px;
+	padding: 3px 3px;
+}
