@@ -34,8 +34,7 @@ table{
   color: #000;
   padding: 10px;
 }
-.footer{
-	border: black solid 1px;
-	width : 594px;
-	padding: 3px 3px;
+
+.text-center{
+  color: tan;
 }
