@@ -21,16 +21,17 @@
 .kotak{
     background: rgba(160, 160, 160, 0.3); 
     border: black solid 1px;
-	width : 594px;
+	  width : 594px;
 }
-table{
-	margin: 20px 20px;
-	margin	: auto;
+.table1{
+  margin	: auto;
+  line-height: 1.3em;
+  letter-spacing: 0.025em;
 }
 .table td,
 .table th {
   background-color:none;
-  margin	: auto;
+  margin	: 5em;
   color: #000;
   padding: 10px;
 }
